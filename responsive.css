@@ -1,0 +1,481 @@
+        @media only screen and (max-width: 1760px) {
+            .map-popup {
+                right: 20px;
+            }
+            .donate-button {
+                left: 70px;
+            }
+        }
+        
+        @media only screen and (max-width: 1580px) {
+            .map-popup,
+            .donate-button {
+                width: 120px;
+            }
+            .map-popup::after {
+                top: 15px;
+            }
+            .map-popup .corona-shapemap a {
+                font-size: 16px;
+                bottom: -10px;
+                padding: 0 13px;
+                line-height: 22px;
+            }
+            .donate-button .donate-shape a {
+                font-size: 16px;
+                bottom: 20px;
+                padding: 0 10px;
+                line-height: 19px;
+            }
+            .donate-button::after {
+                top: 50px;
+            }
+            .map-popup {
+                right: 30px;
+            }
+        }
+        
+        @media only screen and (max-width: 1440px) {
+            .map-popup .corona-shapemap a {
+                font-size: 14px;
+                padding: 0 13px;
+                line-height: 19px;
+            }
+            .map-popup .corona-shapemap {
+                right: 25px;
+            }
+            .map-popup {
+                width: 75px;
+            }
+            #section-header .header-bottom .quote a {
+                margin: 15px 15px;
+            }
+        }
+        
+        @media only screen and (max-width: 1320px) {
+            .map-popup,
+            .donate-button {
+                display: none;
+            }
+            .style-arrow:hover .owl-nav .owl-next {
+                right: -20px !important;
+            }
+            .style-arrow:hover .owl-nav .owl-prev {
+                left: -20px !important;
+            }
+        }
+        
+        @media only screen and (max-width: 1199px) {
+            .banner-section .banner-desc h2 {
+                font-size: 70px;
+            }
+            .banner-section .banner-desc h2 span.text-logo {
+                font-size: 26px;
+                line-height: 34px;
+            }
+            .banner-section .banner-desc h2 span.text-logo span.secondary-clr {
+                font-size: 38px;
+            }
+            .news-slider .owl-stage-outer {
+                height: 23px;
+                overflow: hidden;
+            }
+            .banner-section .banner-desc p {
+                font-size: 16px;
+                padding-right: 16px;
+                line-height: 26px;
+                margin-bottom: 40px;
+            }
+            .banner-shape .virus1 {
+                right: 30px;
+                width: 206px;
+                height: 202px;
+            }
+            .treatment-section .doctors-advice.right li .advice {
+                padding-left: 6px;
+                margin-left: 20px;
+                padding-right: 0;
+                font-size: 12px;
+            }
+            .treatment-section .doctors-advice li .advice {
+                padding-right: 7px;
+                font-size: 12px;
+            }
+            .banner-shape .virus2 {
+                width: 121px;
+                height: 118px;
+                right: 190px;
+                bottom: -130px;
+            }
+            .banner-shape .virus3 {
+                width: 105px;
+                height: 109px;
+                right: 235px;
+                bottom: 40px;
+            }
+            .banner-shape .virus4 {
+                width: 106px;
+                height: 107px;
+                right: -30px;
+                bottom: -120px;
+            }
+            .banner-section {
+                padding: 170px 0 150px;
+            }
+            .corona-counter .counter-text {
+                margin-left: 10px;
+            }
+            .banner-counter {
+                padding-top: 120px;
+            }
+            .footer .widget.fpl {
+                padding-left: 0;
+            }
+            .banner-section {
+                overflow: hidden;
+            }
+        }
+        
+        @media only screen and (min-width: 992px) and (max-width: 1199px) {
+            .spread-section .spread-item .item-desc .item-title,
+            .blog-section .blog-item .blog-desc h3.blog-title {
+                font-size: 17px;
+            }
+            .navbar-collapse {
+                margin: 0;
+            }
+            #section-header .header-bottom .quote a {
+                font-size: 11px;
+                padding: 10px 22px;
+                margin: 20px 0;
+            }
+            .faq-section .faq-tab .nav-tabs .nav-link::after {
+                right: 15px;
+            }
+            .navbar>ul>li {
+                margin-right: 16px;
+            }
+            #section-header .header-bottom .logo-area img {
+                max-width: 160px;
+            }
+            #section-header .header-bottom .mainmenu-area #mainmenu .navbar>ul>li>a {
+                padding: 25px 0;
+            }
+            .corona-counter .counter-icon {
+                width: 50px;
+                height: 50px;
+                line-height: 50px;
+            }
+            .corona-counter h3 {
+                font-size: 30px;
+            }
+            .corona-counter .counter-title {
+                font-size: 13px;
+            }
+            #contact_form .search-tag .tag::after {
+                top: -11px;
+            }
+            #contact_form .search-tag .tag {
+                padding: 8px 37px 7px 14px;
+            }
+            #contact_form .search-tag input {
+                padding: 0 5px;
+            }
+            .symptoms-section .symptoms-item .symptoms-desc .symptoms-title {
+                font-size: 18px;
+            }
+            .prevention-section .prevention-item {
+                height: 480px;
+            }
+            .treatment-section .prevention-item .prevention-img img {
+                width: 100%;
+            }
+            .main-banner .banner-shape .virus4 {
+                right: 15px;
+            }
+        }
+        
+        @media only screen and (min-width: 991px) {
+            #section-header .navbar-toggle {
+                display: none;
+            }
+        }
+        
+        @media only screen and (max-height: 500px) {
+            .mainmenu-area .navbar .nav-menu {
+                max-height: 400px;
+                overflow-y: scroll;
+            }
+        }
+        
+        @media only screen and (max-width: 991px) {
+            .about-section {
+                padding-top: 100px;
+            }
+            .sec-space1 {
+                padding: 92px 0 100px
+            }
+            .prevention-section {
+                padding-bottom: 70px;
+            }
+            footer .widget {
+                margin-bottom: 50px;
+            }
+            .footer .footer-bottom {
+                padding-top: 2px;
+            }
+            #section-header .header-bottom .quote {
+                display: none;
+            }
+            .banner-section::after {
+                display: block;
+            }
+            .corona-counter .counter-icon {
+                width: 52px;
+                height: 52px;
+                line-height: 52px;
+            }
+            .corona-counter h3 {
+                font-size: 34px;
+            }
+            .corona-counter .counter-title {
+                font-size: 15px;
+            }
+            .corona-counter {
+                margin-bottom: 12px
+            }
+            .banner-section .banner-desc p {
+                padding-right: 0;
+            }
+            .banner-section .banner-desc {
+                max-width: 560px;
+            }
+            .banner-counter {
+                padding-top: 80px;
+            }
+            .banner-section {
+                padding: 133px 0 113px;
+            }
+            #section-header .toolbar-area .news-update {
+                font-weight: 400;
+                align-items: center;
+                padding: 0;
+            }
+            .navbar {
+                height: auto;
+                position: relative;
+                top: 0px;
+                z-index: 9999;
+            }
+            .navbar-light .navbar-toggler {
+                position: absolute;
+                right: 0;
+                transform: translate(500px);
+            }
+            .navbar-collapse {
+                position: absolute;
+                top: 64px;
+                width: 700px;
+            }
+            #section-header .header-bottom .mainmenue-area .navbar-nav>li>a {
+                padding: 13px 26px 13px;
+                color: #fff;
+                background-color: rgba(81, 119, 230, 0.6);
+                border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+                text-align: left;
+                text-decoration: none;
+            }
+            #section-header .header-bottom .mainmenue-area .navbar-nav {
+                background: #5177e6;
+                box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.06);
+                margin-bottom: 30px;
+                margin-top: 38px;
+            }
+            #section-header .header-bottom .header-inner {
+                display: block;
+            }
+            #section-header .header-bottom {
+                padding: 30px 0;
+            }
+            .about-section .about-text {
+                padding-right: 0;
+            }
+            .contact-form {
+                margin-top: 60px;
+            }
+            .callto__action {
+                display: block;
+            }
+            .callto__action .cta-text {
+                padding-right: 0;
+                padding-bottom: 25px;
+            }
+            .callto__action .cta-icon {
+                margin-right: 0;
+                margin-bottom: 6px;
+            }
+            .treatment-section .doctors-advice {
+                margin: 0 auto;
+                margin-top: 20px;
+                margin-bottom: 60px;
+            }
+            .treatment-section .doctors-advice li .advice,
+            .treatment-section .doctors-advice.right li .advice {
+                font-size: 16px;
+            }
+            .footer .footer-top {
+                padding-top: 60px;
+            }
+            .main-banner .banner-shape .virus4 {
+                right: 20px;
+            }
+        }
+        
+        @media only screen and (max-width: 767px) {
+            #section-header .toolbar-area {
+                display: none;
+            }
+            .navbar-light .navbar-toggler {
+                transform: translateX(150px);
+            }
+            .navbar-collapse {
+                width: 400px;
+                left: 0;
+            }
+            #main-banner .banner-desc h2 {
+                font-size: 70px;
+            }
+            #main-banner .banner-desc h2 span {
+                font-size: 25px;
+            }
+            #main-banner .banner-desc span.secondry-color {
+                font-size: 40px;
+            }
+            #main-banner .banner-desc p {
+                font-size: 17px;
+            }
+            .treatment-section .prevention-img img {
+                width: 100%;
+            }
+            .handwash-section .hands-washes li {
+                padding: 0 50px;
+            }
+            .handwash-section .hands-washes {
+                flex-wrap: wrap;
+                width: 280px;
+                justify-content: space-between;
+            }
+            .handwash-section.white-area .hands-washes .wash-step .wash-title {
+                font-size: 18px;
+                white-space: nowrap;
+                margin-bottom: 20px;
+            }
+            .navbar-toggler {
+                transform: translateX(0);
+            }
+            .main-banner .banner-btn .secondary-btn {
+                padding: 15px 30px;
+            }
+        }
+        
+        @media only screen and (max-width: 424px) {
+            .handwash-section .hands-washes {
+                flex-wrap: wrap;
+                max-width: 170px;
+                margin: 0 auto;
+                justify-content: space-between;
+            }
+            .navbar-light .navbar-toggler {
+                transform: translateX(100px);
+            }
+            .navbar-collapse {
+                width: 350px;
+                left: 0;
+            }
+            #section-header .toolbar-area {
+                display: none;
+            }
+            .main-banner .banner-btn .secondary-btn {
+                padding: 10px 11px;
+                font-size: 16px;
+            }
+            #main-banner .banner-desc h2 {
+                font-size: 56px;
+            }
+            #main-banner .banner-desc span.text-logo {
+                font-size: 30px;
+            }
+            #main-banner .banner-desc span.secondry-color {
+                font-size: 40px;
+            }
+            .about-section .prevent-about {
+                font-size: 17px;
+            }
+            .section-header2 .subtitle {
+                font-size: 17px;
+            }
+            form input[type="text"] {
+                padding: 15px 0;
+            }
+            .spread-section .section-header2 h2 span {
+                font-size: 40px;
+            }
+            .spread-section .section-header2 h2 {
+                font-size: 40px;
+            }
+            #contact_form .search-tag input {
+                font-size: 11px;
+            }
+        }
+        
+        @media only screen and (max-width: 374px) {
+            .main-banner .banner-btn .secondary-btn {
+                padding: 8px 5px;
+                font-size: 11px;
+                font-weight: 100;
+            }
+            .navbar-light .navbar-toggler {
+                transform: translateX(80px);
+            }
+            .navbar-collapse {
+                width: 300px;
+                left: 0;
+            }
+            .button-details {
+                width: 100%;
+            }
+            .play-video .play-icon {
+                width: 44px;
+                height: 44px;
+            }
+            .play-video .play-icon .popup-video {
+                line-height: 45px;
+            }
+            #main-banner .banner-desc .video-text .popup-video-text {
+                font-size: 15px;
+            }
+            form input[type="text"] {
+                padding: 15px 0;
+            }
+            #contact_form .search-tag input {
+                font-size: 10px;
+            }
+            #contact_form .search-tag {
+                padding: 0 2px;
+            }
+            .spread-section .section-header2 h2 span {
+                font-size: 34px;
+            }
+            .spread-section .section-header2 h2 {
+                font-size: 30px;
+            }
+            .section-header h2 {
+                font-size: 37px;
+            }
+            .section-header2 h2 {
+                font-size: 37px;
+            }
+            .handwash-section.white-area .hands-washes .wash-step .wash-title {
+                font-size: 16px;
+            }
+        }
